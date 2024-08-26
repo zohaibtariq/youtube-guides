@@ -2,8 +2,7 @@
 
 #### [Follow Foocus Official Repo](https://github.com/lllyasviel/Fooocus)
 
-#### [Generate Unlimited AI Images Locally for Free with Fooocus: No Limits, No Cost!
-](https://youtu.be/fE158r0p_4Q)
+#### [Generate Unlimited AI Images Locally for Free with Fooocus: No Limits, No Cost!](https://youtu.be/fE158r0p_4Q)
 
 ---
 
