@@ -9,4 +9,4 @@
 4. **[DETAIL STEPS](https://github.com/zohaibtariq/youtube-guides/blob/main/00004-foocus-guide.md)** ***|*** [Generate Unlimited AI Images Locally for Free with Fooocus: No Limits, No Cost!
 ](https://youtu.be/fE158r0p_4Q)
 
-5. **[DETAIL STEPS](https://github.com/zohaibtariq/youtube-guides/blob/main/flux-schnell-gguf.md)** ***|*** [YOUTUBE]()
+5. **[DETAIL STEPS](https://github.com/zohaibtariq/youtube-guides/blob/main/flux-gguf.md)** ***|*** [YOUTUBE]()
