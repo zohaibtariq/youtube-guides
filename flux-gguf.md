@@ -15,8 +15,8 @@ Move this downloaded file to `ComfyUI/models/unet/flux1-dev-Q4_0.gguf` OR `Comfy
 
 ### Download Clip files
 
-  - [clip encoder (clip_l.safetensors)](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main)
-  - [clip encoder (t5xxl_fp8_e4m3fn.safetensors)](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main)
+  - [Clip encoder (clip_l.safetensors)](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main)
+  - [Clip encoder (t5xxl_fp8_e4m3fn.safetensors)](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main)
 
 Move this downloaded file to `ComfyUI/models/clip/clip_l.safetensors` & `ComfyUI/models/clip/t5xxl_fp8_e4m3fn.safetensors`
 
@@ -29,11 +29,11 @@ Move this downloaded file to `ComfyUI/models/vae/ae.safetensors`
 
 ### Download Lora file (not required)
 
-  - [flux realism lora (lora.safetensors)](https://huggingface.co/XLabs-AI/flux-RealismLora/tree/main)
+  - [Flux realism lora (lora.safetensors)](https://huggingface.co/XLabs-AI/flux-RealismLora/tree/main)
 
 Move this downloaded file to `ComfyUI/models/lora/lora.safetensors`
 
 ### Download Workflows
 
-- [with realism lora attached]()
-- [without realism lora attached]()
+- [Workflow - with realism lora attached]()
+- [Workflow - without realism lora attached]()
