@@ -36,4 +36,10 @@ Move this downloaded file to `ComfyUI/models/lora/lora.safetensors`
 ### Download Workflows
 
 - [Workflow - with realism lora attached](https://github.com/zohaibtariq/youtube-guides/blob/main/workflow_flux_schnell_q4_gguf_lora.json)
+
+![Workflow - with realism lora attached](https://github.com/user-attachments/assets/2d2083fa-2d3c-4f2f-8c50-36785e8ad506)
+
 - [Workflow - without realism lora attached](https://github.com/zohaibtariq/youtube-guides/blob/main/workflow_flux_schnell_q4_gguf_without_lora.json)
+
+![Workflow - without realism lora attached](https://github.com/user-attachments/assets/2abe2de2-ff44-442e-9135-3cedd8025821)
+
