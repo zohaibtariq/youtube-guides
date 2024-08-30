@@ -22,8 +22,9 @@ python --version
 it must show
 ```
 python 3.11.0
+```
 
-## IMPORTANT NOTE
+## IMPORTANT NOTE (For macOS only)
 
 - Pytorch only support mps (Metal Performance Shaders) for python version 3.8 - 3.11 [READ THIS FOR MORE DETAILS](https://pytorch.org/get-started/locally/)
 - [ALSO READ THIS](https://developer.apple.com/metal/pytorch/)
