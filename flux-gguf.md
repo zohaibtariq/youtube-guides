@@ -1,6 +1,6 @@
 # Setup Flux Schnell GGUF (ComfyUI)
 
-## [Watch On Youtube] (https://youtu.be/B-FPoDOt5vE)
+## [Watch On Youtube](https://youtu.be/B-FPoDOt5vE)
 
 1. ### [Follow to Install GIT and Python](https://github.com/zohaibtariq/youtube-guides/blob/main/setup-git-python.md)
 
