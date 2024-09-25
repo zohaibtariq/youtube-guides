@@ -10,3 +10,5 @@
 ](https://youtu.be/fE158r0p_4Q)
 
 5. **[DETAIL STEPS](https://github.com/zohaibtariq/youtube-guides/blob/main/flux-gguf.md)** ***|*** [Forget MidJourney! Set Up FLUX GGUF for FREE on Any Low-End PC Unlimited AI Images, No Subscriptions](https://youtu.be/B-FPoDOt5vE)
+
+6. **[DETAIL STEPS](https://github.com/zohaibtariq/youtube-guides/blob/main/Install-Anaconda-setup-Jupyter-Lab-and-create-use-new-environment-in-Jupyter-Lab.md)** ***|*** [Install Anaconda setup Jupyter Lab and create/use new environment in Jupyter Lab](https://www.youtube.com/watch?v=9Jpn4H4frGQ)
